@@ -2,15 +2,15 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "ar.edu.unlp.ingreso"
+        id        = "ar.edu.unlp.ingenieria"
         versionCode = "20230"
         version   = "3.4.2">
-    <name>Ingreso UNLP</name>
+    <name>Ingeniería UNLP</name>
 
         
         
     <description>
-        Aplicación de Ingreso a la UNLP
+        Aplicación de Ingeniería de la UNLP
     </description>
 
     <author href="http://moodleapp.com" email="mobile@moodleapp.com">
